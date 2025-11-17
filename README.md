@@ -78,7 +78,7 @@ These sub-scores should be normalized and combined into a single index (weights 
 - Avoid committing any sensitive data (personal health information or private credentials). Aggregate or anonymize fine-grained datasets when publishing.
 
 **License:**
-- Add license information in `LICENSE` or update this README with the chosen license.
+- This project is licensed under the Apache License 2.0. See the `LICENSE` file for details.
 
 ---
 
