@@ -22,7 +22,7 @@ These sub-scores should be normalized and combined into a single index (weights 
 
 **Data Sources:**
 - Health site data: public sources such as https://healthsites.io/map and local/state datasets (recommended to verify and augment public data).
-- Internet performance: measurement networks (e.g., broadbandmapping.com), ISP coverage data, and active measurements (where possible).
+- Internet performance: measurement networks (e.g., https://broadbandmap.fcc.gov/home), ISP coverage data, and active measurements (where possible).
 - Geographic basemaps: OpenStreetMap tiles or vector data focusing on the Alaska extent.
 
 **Visualization & UX:**
